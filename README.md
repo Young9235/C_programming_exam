@@ -4,6 +4,6 @@
 - git add .
 - git commit -m "first commit"
 - git remote add origin https://github.com/Young9235/django_project.git
-- (2번째부터 push하기 전 pull 받기) git pull
+- (소스가 외부로 부터 변경되었을 경우) git pull
 - git push -u origin master
 - git status
